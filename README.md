@@ -74,7 +74,7 @@ Cloud Bioinformatics        ███░░░░░░░░░░░  AWS Heal
 | 2025 | [MicroRNAs in Neurodegeneration: Insights from Huntington's Disease](https://doi.org/10.1007/s12035-025-04750-7) | *Molecular Neurobiology, Springer* | 4.3 |
 | 2025 | [Nano-enhanced Biosensors: Healthcare, Environmental & Food Safety Applications](https://doi.org/10.1016/j.sbsr.2025.100783) | *Sensing and Bio-Sensing Research* | 4.9 |
 | 2023 | [Nanocarriers for Brain Delivery — Safety, Stability & Regulatory Aspects](https://doi.org/10.1201/9781003383376) | *Taylor & Francis (Book Chapter)* | 4.2 |
-| 2021 | [Chitosan Nanoparticle Gene Transformation in Zea mays](https://doi.org/10.25083/rbl/26.5/2972.2979) | *Romanian Biotechnological Letters* | — |
+| 2021 | [Chitosan Nanoparticle Gene Transformation in Zea mays](https://doi.org/10.25083/rbl/26.5/2972.2979) | *Romanian Biotechnological Letters* | 0.7 |
 
 ---
 
