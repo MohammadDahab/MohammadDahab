@@ -22,8 +22,7 @@ My work sits at the intersection of **genomics**, **multi-omics data analysis**,
 - 📖 **Currently studying:** Clinical Trials Design & Conduct — Johns Hopkins University (Coursera)
 - 🌍 **Based in:** Cairo, Egypt
 - 💡 **Looking to collaborate on:** Bioinformatics pipelines, multi-omics analysis, cancer genomics, and clinical data projects
-- 📬 **Reach me at:** mohammeddahab07@gmail.com
-
+- 📬 **Reach me at:** mohammed-ibrahim@science.helwan.edu.eg
 ---
 
 ## 🧬 Research & Expertise
